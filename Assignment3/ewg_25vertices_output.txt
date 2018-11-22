@@ -1,0 +1,203 @@
+Reading input values from ewg_25vertices.txt.
+Reading graph 1
+Graph 1: Does MST = SPT? true
+Reading graph 2
+Graph 2: Does MST = SPT? false
+Reading graph 3
+Graph 3: Does MST = SPT? false
+Reading graph 4
+Graph 4: Does MST = SPT? false
+Reading graph 5
+Graph 5: Does MST = SPT? false
+Reading graph 6
+Graph 6: Does MST = SPT? false
+Reading graph 7
+Graph 7: Does MST = SPT? false
+Reading graph 8
+Graph 8: Does MST = SPT? false
+Reading graph 9
+Graph 9: Does MST = SPT? false
+Reading graph 10
+Graph 10: Does MST = SPT? false
+Reading graph 11
+Graph 11: Does MST = SPT? false
+Reading graph 12
+Graph 12: Does MST = SPT? false
+Reading graph 13
+Graph 13: Does MST = SPT? false
+Reading graph 14
+Graph 14: Does MST = SPT? false
+Reading graph 15
+Graph 15: Does MST = SPT? false
+Reading graph 16
+Graph 16: Does MST = SPT? false
+Reading graph 17
+Graph 17: Does MST = SPT? false
+Reading graph 18
+Graph 18: Does MST = SPT? false
+Reading graph 19
+Graph 19: Does MST = SPT? false
+Reading graph 20
+Graph 20: Does MST = SPT? false
+Reading graph 21
+Graph 21: Does MST = SPT? false
+Reading graph 22
+Graph 22: Does MST = SPT? false
+Reading graph 23
+Graph 23: Does MST = SPT? false
+Reading graph 24
+Graph 24: Does MST = SPT? false
+Reading graph 25
+Graph 25: Does MST = SPT? false
+Reading graph 26
+Graph 26: Does MST = SPT? false
+Reading graph 27
+Graph 27: Does MST = SPT? false
+Reading graph 28
+Graph 28: Does MST = SPT? false
+Reading graph 29
+Graph 29: Does MST = SPT? false
+Reading graph 30
+Graph 30: Does MST = SPT? false
+Reading graph 31
+Graph 31: Does MST = SPT? false
+Reading graph 32
+Graph 32: Does MST = SPT? false
+Reading graph 33
+Graph 33: Does MST = SPT? false
+Reading graph 34
+Graph 34: Does MST = SPT? false
+Reading graph 35
+Graph 35: Does MST = SPT? false
+Reading graph 36
+Graph 36: Does MST = SPT? false
+Reading graph 37
+Graph 37: Does MST = SPT? false
+Reading graph 38
+Graph 38: Does MST = SPT? false
+Reading graph 39
+Graph 39: Does MST = SPT? false
+Reading graph 40
+Graph 40: Does MST = SPT? false
+Reading graph 41
+Graph 41: Does MST = SPT? false
+Reading graph 42
+Graph 42: Does MST = SPT? false
+Reading graph 43
+Graph 43: Does MST = SPT? false
+Reading graph 44
+Graph 44: Does MST = SPT? false
+Reading graph 45
+Graph 45: Does MST = SPT? false
+Reading graph 46
+Graph 46: Does MST = SPT? false
+Reading graph 47
+Graph 47: Does MST = SPT? false
+Reading graph 48
+Graph 48: Does MST = SPT? false
+Reading graph 49
+Graph 49: Does MST = SPT? false
+Reading graph 50
+Graph 50: Does MST = SPT? false
+Reading graph 51
+Graph 51: Does MST = SPT? false
+Reading graph 52
+Graph 52: Does MST = SPT? false
+Reading graph 53
+Graph 53: Does MST = SPT? false
+Reading graph 54
+Graph 54: Does MST = SPT? false
+Reading graph 55
+Graph 55: Does MST = SPT? false
+Reading graph 56
+Graph 56: Does MST = SPT? false
+Reading graph 57
+Graph 57: Does MST = SPT? false
+Reading graph 58
+Graph 58: Does MST = SPT? false
+Reading graph 59
+Graph 59: Does MST = SPT? false
+Reading graph 60
+Graph 60: Does MST = SPT? false
+Reading graph 61
+Graph 61: Does MST = SPT? false
+Reading graph 62
+Graph 62: Does MST = SPT? false
+Reading graph 63
+Graph 63: Does MST = SPT? false
+Reading graph 64
+Graph 64: Does MST = SPT? false
+Reading graph 65
+Graph 65: Does MST = SPT? false
+Reading graph 66
+Graph 66: Does MST = SPT? false
+Reading graph 67
+Graph 67: Does MST = SPT? false
+Reading graph 68
+Graph 68: Does MST = SPT? false
+Reading graph 69
+Graph 69: Does MST = SPT? false
+Reading graph 70
+Graph 70: Does MST = SPT? false
+Reading graph 71
+Graph 71: Does MST = SPT? false
+Reading graph 72
+Graph 72: Does MST = SPT? false
+Reading graph 73
+Graph 73: Does MST = SPT? false
+Reading graph 74
+Graph 74: Does MST = SPT? false
+Reading graph 75
+Graph 75: Does MST = SPT? false
+Reading graph 76
+Graph 76: Does MST = SPT? false
+Reading graph 77
+Graph 77: Does MST = SPT? false
+Reading graph 78
+Graph 78: Does MST = SPT? false
+Reading graph 79
+Graph 79: Does MST = SPT? false
+Reading graph 80
+Graph 80: Does MST = SPT? false
+Reading graph 81
+Graph 81: Does MST = SPT? false
+Reading graph 82
+Graph 82: Does MST = SPT? false
+Reading graph 83
+Graph 83: Does MST = SPT? false
+Reading graph 84
+Graph 84: Does MST = SPT? false
+Reading graph 85
+Graph 85: Does MST = SPT? false
+Reading graph 86
+Graph 86: Does MST = SPT? false
+Reading graph 87
+Graph 87: Does MST = SPT? false
+Reading graph 88
+Graph 88: Does MST = SPT? false
+Reading graph 89
+Graph 89: Does MST = SPT? false
+Reading graph 90
+Graph 90: Does MST = SPT? false
+Reading graph 91
+Graph 91: Does MST = SPT? false
+Reading graph 92
+Graph 92: Does MST = SPT? false
+Reading graph 93
+Graph 93: Does MST = SPT? false
+Reading graph 94
+Graph 94: Does MST = SPT? false
+Reading graph 95
+Graph 95: Does MST = SPT? false
+Reading graph 96
+Graph 96: Does MST = SPT? false
+Reading graph 97
+Graph 97: Does MST = SPT? false
+Reading graph 98
+Graph 98: Does MST = SPT? false
+Reading graph 99
+Graph 99: Does MST = SPT? false
+Reading graph 100
+Graph 100: Does MST = SPT? false
+Processed 100 graphs.
+Average Time (seconds): 0.00
